@@ -137,21 +137,110 @@ So we already know the twitter handle of attacker
 
 > Twitter handle: **SakuraLoverAiko**
 
+Now for the next question 
+
+lets check the outhe twitter posts
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/d20fc07e-a55b-4fa3-b9a5-24cfc893925d)
+
+On observing we see that DEEP and PASTE words are capatilised and the attacker is also discussing about the dark web So its hints about the **DEEPPASTE** on the darkweb
+
+
+on searching about it i get to know the site no londer exists to we can't solve this further.
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/c49f970c-8a44-4868-8a03-428233c74c40)
+
+but here the string provided is a md5 string so we have to search this string, which we have to search on DEEPPASTE where we can find wifi ssid
+
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/455465dc-b507-48f4-94b3-77358570b666)
+
+after getting the ssid we can use this site to find bssid.
+
+
+---
+
+## HOMEBOUND
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/6365cab2-5390-44fd-8fdb-ada7dc015862)
+
+The photo uploaded by the attacker prior getting his flight is on his twitter handle
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/41f29475-8a64-480e-adf1-35d6cd0a72a8)
+
+on zooming into the image we can see a large obelisk monument at the center of the image.
+which is located in 
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/3f2002eb-bf4d-4032-a683-77759a8a3da9)
+
+further more looking in the image we can see that there is a train trak and water body in the right side of the image
+
+so locating the similar kind of place using google maps 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/fcce3bb9-8ece-4041-940d-761bd22d7a50)
+
+marked sites are the possible location
+
+zooming further it down 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/dec6fb59-1337-4888-929c-310e7ca18a26)
+
+
+this area have warter body , railway track and most importantly if we face towards the washington monument the railway track will appear to the right as that in tha image.
+
+the name of this place is long bridge park 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/9a04e58d-993a-4c05-b8d1-81788fce4577)
 
 
 
+so let us try to search nearby airports to it
+nearest airport is this 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/8f7c542e-6e9f-4dba-bf57-b82035a49eb9)
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/e777cfc3-dda8-4d19-8cf5-d3929435488f)
+> Code name: **DCA**
 
 
 
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/c5725bc0-0a91-4756-86cf-6d6b4f3e3580)
+
+trying to reversearch the image 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/8b5e3325-bb26-4c33-815d-2c33d51a2b08)
+
+
+the highlited link seems to be very similar with the logo with similar kind of foreground while other are bit different
+opening the link and scrolling i found
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/dbd21c61-0ca6-454a-a44d-973fc1811386)
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/8ebc8f07-7975-4f37-a563-f857ed093fef)
+
+this proves that this logo is of Japan Airlines First Class Lounge in Tokyo HND
+
+> Attacker have their last layover in launge at: **HND**
+
+
+image shared by the Attacker
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/f0541012-970a-4cb7-a1da-54af9b4dad60)
+
+looking for the flight route we found that the image shared by the attacker is of japan itself
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/6640916b-f49e-4d96-b92b-de59dbb222ed)
+
+in the image shared by attacker we can easily spot a big lake like this
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/b37c00ed-2267-400f-b59e-001ddf618394)
+
+> name of the lake: Lake Inawashiro
 
 
 
+reading the hint given
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/f0fa791b-46c3-4012-b2f6-ef9d1ef88089)
 
+maybe this question be related to the question that we left earlier of wifi 
 
-
-
-
-
-
-
+> City does the attacker likely consider "home": 
 
