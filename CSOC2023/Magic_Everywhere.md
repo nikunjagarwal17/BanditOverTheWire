@@ -15,7 +15,7 @@ after this we are able to open the image but our flag is not visible yet.
 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/cf2ef7e4-fd9c-4710-85b0-fe4fa0a923dd)
 
-it says dig more so maybe we have to check more into the hex and change the image size searching about it on the internet I found somethid related 
+it says dig more also the description hints about to look at a bigger picture so maybe we have to check more into the hex and change the image size searching about it on the internet I found something related 
 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/7156a751-e990-41b0-906c-5ca74fbc82d1)
 
@@ -25,6 +25,7 @@ but here in our image we have somethig different
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/291e0b70-a768-4eac-8f55-39ca0bc44a81)
 
 so searching about it
+
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/12613f62-012b-4e64-9566-c359f8b9ad16)
 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/6ee1b4cd-b4f6-4da3-9d64-ceff091221c2)
