@@ -36,5 +36,6 @@ so now we know this is presidential palace in turkey so let search for it
 
 
 here we go 
-name: Presidential Complex 
-location: 39°55'50.9"N 32°47'56.0"E
+> name: Presidential Complex
+>  
+> location: 39°55'50.9"N 32°47'56.0"E
