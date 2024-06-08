@@ -46,5 +46,7 @@ on the compass the direction looks something like **North-West**
 
 
 > name of the resort is **Oan resort**
+> 
 > coordinates are 7°21'45.8"N 151°45'21.6"E
+>
 > direction looks something like **North-West**
