@@ -2,9 +2,10 @@
 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/ff88788a-b98a-4127-9e50-d7d2ee8520da)
 
-(challenge file)[https://github.com/0xkn1gh7/CSOC23-Infosec/raw/main/Week-1-Forensics/chall3]
+[challenge file](https://github.com/0xkn1gh7/CSOC23-Infosec/raw/main/Week-1-Forensics/chall3)
 
 checking the file type 
+
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/94313b52-f038-44f5-a84d-7adcdbf9879b)
 
 but on opeing it shows corrupted so lets try to fix its hex.
