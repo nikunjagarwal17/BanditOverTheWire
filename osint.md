@@ -25,7 +25,7 @@ Searching on google i got to this site
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/a725f21f-d664-46f3-b6fb-e8a6c5de4a92)
 
 where i found this 
-so its is conform that this location is Ankhor-Lokomotiv Park, Shaykhontohur Street 28, Tashkent, Toshkent Shahri, Uzbekistan
+> so its is conform that this location is Ankhor-Lokomotiv Park, Shaykhontohur Street 28, Tashkent, Toshkent Shahri, Uzbekistan
 
 
 now looking for another image 
@@ -42,6 +42,6 @@ similar semicircular shape
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/a23b42cc-eb7f-4966-a672-0884c85fe7c7)
 
 
-similar kind of poles and the building in background so this confirms it to be **Chorsu Bazaar , Toshkent, Uzbekistan**
+> similar kind of poles and the building in background so this confirms it to be **Chorsu Bazaar , Toshkent, Uzbekistan**
 
 
