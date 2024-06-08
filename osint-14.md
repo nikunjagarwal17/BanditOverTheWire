@@ -29,7 +29,7 @@ after searching on google i found this
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/d328e26e-33f1-4461-b2f4-38bc7a3bda98)
 
 so 
-- Magnitude: The earthquake had a magnitude of 5.8 degrees on the Richter scale.
+>  Magnitude: The earthquake had a magnitude of 5.8 degrees on the Richter scale.
 
 
 
