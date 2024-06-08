@@ -42,3 +42,9 @@ on aligning I get like this
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/522b27c0-dc9e-4010-a1f3-e758ce60d3c8)
 
 on the compass the direction looks something like **North-West**
+
+
+
+> name of the resort is **Oan resort**
+> coordinates are 7°21'45.8"N 151°45'21.6"E
+> direction looks something like **North-West**
