@@ -1,4 +1,4 @@
-![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/518cb31c-2f01-46c8-8798-e3c7d7a87eae)# osint 
+# osint 
 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/cea8c648-3aa5-44ee-96c5-c5599656e0e8)
 
@@ -42,7 +42,7 @@ similar semicircular shape
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/a23b42cc-eb7f-4966-a672-0884c85fe7c7)
 
 
-> similar kind of poles and the building in background so this confirms it to be **Chorsu Bazaar , Toshkent, w**
+> similar kind of poles and the building in background so this confirms it to be **Chorsu Bazaar , Toshkent, Uzbekistan**
 
 now before looking into other image let us first take look at the images and their names 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/72363b84-c7df-4fa3-aee0-1578b06f1d96)
@@ -86,7 +86,47 @@ clearly we can say its that location only.
 >
 > mode of traveling: taxi
 
-also checkinf for the sunrize time in   will give us information about the time as the sun is just riseing i am using [suncalc](www.suncalc.org) for this purpose.
+also checkinf for the sunrize time in Toshkent will give us information about the time as the sun is just riseing i am using [suncalc](www.suncalc.org) for this purpose.
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/ec8b28b1-8bbd-465e-886e-e80070498821)
 
+it is about 7:8 AM so most likely is that the man has taken his train between 7:30 - 8:30 so lets check for the trains at that time.
 
+I am using this site to get out data.
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/8f0f380c-d583-4b56-bcb4-77f3798e0428)
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/46fdf952-0850-4e26-a50f-b17e600a3cf6)
+
+these are the some places where the man can go 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/2738c716-13f2-4bd6-9c12-6995881a14ca)
+
+here I marked all the places where the man can go
+
+we can clearly see that half of the stations are on the east and reast at the west If we can specity the direction the train is moving we can simply out work by reducing the number of stations to half.
+
+for this lets look into the video footage that we got.
+
+I am picking some intresting frames from the video from which we can get something helpful.
+
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/90f96b48-ee37-49af-8978-0f215951f70d)
+
+we got a paraller road running along the rail line, a small hut tpe structure, petrol pump, railway crossing,
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/e86210eb-df1e-48dd-a3e5-ab914277e92f)
+
+there is one more railway station at the another side, the sun is on left top 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/4adf03ea-00ee-4d5d-bc90-9b9fdbc2bea5)
+
+trees are in ordered manner,
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/dfdf94a8-ec98-4663-8520-573dd03dc483)
+
+shadow casted like this 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/5af95ea9-2c69-4ac5-b665-7af3d83c6043)
+
+nice horizontal lined pattern on the mountains.
+
+and some type of residential area.
