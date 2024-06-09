@@ -1,4 +1,4 @@
-# osint 
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/518cb31c-2f01-46c8-8798-e3c7d7a87eae)# osint 
 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/cea8c648-3aa5-44ee-96c5-c5599656e0e8)
 
@@ -42,6 +42,51 @@ similar semicircular shape
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/a23b42cc-eb7f-4966-a672-0884c85fe7c7)
 
 
-> similar kind of poles and the building in background so this confirms it to be **Chorsu Bazaar , Toshkent, Uzbekistan**
+> similar kind of poles and the building in background so this confirms it to be **Chorsu Bazaar , Toshkent, w**
+
+now before looking into other image let us first take look at the images and their names 
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/72363b84-c7df-4fa3-aee0-1578b06f1d96)
+
+we know that the images or phots takes by a digital vamera or a mobile phone saves the iamges or videos in a sorted manner in which the images are taken looking into it we get that there is agap of 150 between the images takes very first and at very end.
+also it in not a normal thing fir a person to take 150 images on a daily basis so most likely the man is travelling in another city or the country.
+
+the first image taken is of **Chorsu Bazaar** and the next image that we are provided (but there are many photoss that we are not have access of) taken by the man is of **Ankhor-Lokomotiv Park** let mark these two sites on the map.
+
+Considering that we the man is trvelling so that he may not have access to the personal transportation. there are most likely chances of tha person have taken taxi or by walking
+
+> mode of trevelling is walking for the first two images.
+
+now looking into the next image 
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/428ff025-dc7d-4103-9422-05873db5332c)
+
+since the gap between this image and the previos image is only of 32 images so most likey the images are taken on the same day or the next day.
+
+lets first get some points that we should notice 
+- the image is taken from the middle of the road and there is some glare in the side of the images making it looks like the image is taken from a taxi while moving.
+- since the next is a video so it is more likey that it is taken while going to the railway station.
+- the road is not wet as that in the above two images make it looks like the image is more likely to to taken at next daty.
+- moreover the sun is at the horizon make it looks like that is early morning or the eveing but in the next footage it is morning which is most likely to be taken just after reaching to the station.
+-  there is snow all around so more likey the month is of january or febuary.
+-  also we can see some big text eritten on the buildings like (samsung galaxy, navien and a big O which is incomplete although), a bus stop, with a underground station,
+-  it is a cross way as we can see some vehicles at right most corner,
+
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/be032651-bd88-43f3-9f53-5102427a0ce8)
+
+here is the railway station and many bus stops but few with our required configuration i.e. underground station, crossway. lookin around and shrinking down the list i found the station 
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/cd804959-5000-40b2-9d9e-62e54b128277)
+
+looking all 3 found this at the location marked with green get some 3d street view got similar view
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/ee3128b3-91ee-43c3-b8d7-90b3dc9088a9)
+
+clearly we can say its that location only.
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/3f950b11-e866-4536-869d-7798a470fb8c)
+
+> location: 41.299358595716804, 69.27279559784523
+>
+> mode of traveling: taxi
+
+also checkinf for the sunrize time in   will give us information about the time as the sun is just riseing i am using [suncalc](www.suncalc.org) for this purpose.
+![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/ec8b28b1-8bbd-465e-886e-e80070498821)
 
 
