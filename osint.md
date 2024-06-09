@@ -1,4 +1,4 @@
-![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/1567e0c0-93f0-463d-9559-2c780738c2dd)# osint 
+# osint 
 
 ![image](https://github.com/nikunjagarwal17/BanditOverTheWire/assets/144536875/cea8c648-3aa5-44ee-96c5-c5599656e0e8)
 
